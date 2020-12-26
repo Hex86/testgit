@@ -1,8 +1,4 @@
 1
 2
 3 hotfix
-<<<<<<< Updated upstream
-422222
-=======
-dev 4......
->>>>>>> Stashed changes
+4444
